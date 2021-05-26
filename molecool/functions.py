@@ -28,6 +28,10 @@ def canvas(with_attribution=True):
         quote += "\n\t- Adapted from Henry David Thoreau"
     return quote
 
+def zen():
+    esto="Hola"
+    return esto
+
 
 if __name__ == "__main__":
     # Do something if this file is invoked on its own
