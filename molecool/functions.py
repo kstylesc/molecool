@@ -32,6 +32,7 @@ read and write xyz and pdb
 
 """
 
+
 def canvas(with_attribution=True):
     """
     Placeholder function to show example docstring (NumPy format)
@@ -54,10 +55,10 @@ def canvas(with_attribution=True):
         quote += "\n\t- Adapted from Henry David Thoreau"
     return quote
 
-def zen():
-    esto="Hola"
-    return esto
 
+def zen():
+    esto = "Hola"
+    return esto
 
 
 if __name__ == "__main__":

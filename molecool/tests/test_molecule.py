@@ -2,8 +2,9 @@ import pytest
 import sys
 import molecool
 
+
 def test_molecular_mass():
-    symbols = ['C', 'H', 'H', 'H', 'H']
+    symbols = ["C", "H", "H", "H", "H"]
 
     calculated_mass = molecool.calculate_molecular_mass(symbols)
 
